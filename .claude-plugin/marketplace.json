@@ -7,17 +7,26 @@
   "plugins": [
     {
       "name": "claude-forge",
-      "source": { "source": "github", "repo": "Hisham-Hussein/claude-forge" },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Hisham-Hussein/claude-forge.git"
+      },
       "description": "Skills, agents and commands for requirements engineering, contract verification and productivity workflows."
     },
     {
       "name": "content-generation",
-      "source": { "source": "github", "repo": "Hisham-Hussein/content-generation" },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Hisham-Hussein/content-generation.git"
+      },
       "description": "Skills for premium LinkedIn infographics, carousels and raster visual conversion."
     },
     {
       "name": "ambition",
-      "source": { "source": "github", "repo": "Hisham-Hussein/ambition" },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Hisham-Hussein/ambition.git"
+      },
       "description": "Altitude, depth and range: work more ambitiously with Claude, with outside judges."
     }
   ]
