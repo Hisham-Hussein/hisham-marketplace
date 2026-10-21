@@ -1,0 +1,24 @@
+{
+  "name": "hisham-marketplace",
+  "description": "Hisham's Claude Code plugins.",
+  "owner": {
+    "name": "Hisham"
+  },
+  "plugins": [
+    {
+      "name": "claude-forge",
+      "source": { "source": "github", "repo": "Hisham-Hussein/claude-forge" },
+      "description": "Skills, agents and commands for requirements engineering, contract verification and productivity workflows."
+    },
+    {
+      "name": "content-generation",
+      "source": { "source": "github", "repo": "Hisham-Hussein/content-generation" },
+      "description": "Skills for premium LinkedIn infographics, carousels and raster visual conversion."
+    },
+    {
+      "name": "ambition",
+      "source": { "source": "github", "repo": "Hisham-Hussein/ambition" },
+      "description": "Altitude, depth and range: work more ambitiously with Claude, with outside judges."
+    }
+  ]
+}
