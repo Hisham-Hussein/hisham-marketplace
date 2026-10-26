@@ -28,6 +28,14 @@
         "url": "https://github.com/Hisham-Hussein/ambition.git"
       },
       "description": "Altitude, depth and range: work more ambitiously with Claude, with outside judges."
+    },
+    {
+      "name": "utility-mods",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Hisham-Hussein/utility-mods.git"
+      },
+      "description": "Small personal utility mods (currently: cache-keepalive, which pings the session before the 1-hour prompt-cache TTL lapses)."
     }
   ]
 }
