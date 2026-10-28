@@ -36,6 +36,14 @@
         "url": "https://github.com/Hisham-Hussein/utility-mods.git"
       },
       "description": "Small personal utility mods (currently: cache-keepalive, which pings the session before the 1-hour prompt-cache TTL lapses)."
+    },
+    {
+      "name": "productize",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Hisham-Hussein/productize.git"
+      },
+      "description": "B2B pricing and packaging: packaging, pricing models (credits, AI, fair use), services, contract terms, expansion and renewals, competitor pricing audits, and an end-to-end pricing sheet."
     }
   ]
 }
